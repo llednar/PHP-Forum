@@ -6,7 +6,7 @@ class Example {
 
 	public function __construct() {
 
-		$testing = "secondary value";
+		$testing = "another value...I guess?";
 		
 
 		$testing = 6;
